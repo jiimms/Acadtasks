@@ -1,0 +1,69 @@
+
+#wrap {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+hr {
+	border: 15px solid darkGray;
+	margin-top: 80px;
+}
+
+#wpb {
+	width: 15%;
+	float: left;
+	
+}
+
+.wordpress{
+	font-weight: 900;
+	font-size: 3rem;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+#word {
+	color: skyblue;
+}
+
+#press {
+	color: Gray;
+}
+
+#primary {
+	margin-bottom: 50px;
+	margin-top: 20px;
+	overflow: auto;
+
+}
+
+
+#wps {
+	width:20px;
+	margin-left: 5px;
+	margin-top:5px;
+
+}
+
+#eoa{
+	position: absolute;
+	bottom: 0;
+}
+
+@media screen and (min-width: 620px ) {
+	#wpb {
+		width: 90px;
+		float: left;
+		
+	
+	}
+
+	.wordpress{
+		font-weight: 900;
+		font-size: 70px;
+		font-family: 'Raleway', sans-serif;
+	}
+	#wps {
+	width:26px;
+	}
+}
